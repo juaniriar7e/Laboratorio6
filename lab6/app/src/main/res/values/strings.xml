@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bingo App</string>
+    <string name="bingo_title">GENERAL BINGO</string>
+    <string name="enter_dimension">Ingrese la dimensión de la matriz del Bingo</string>
+    <string name="player_id">ID de Jugador: %s</string>
+    <string name="start_game">Iniciar Juego</string>
+    <string name="bingo_game">Juego de Bingo</string>
+    <string name="player">Jugador: %s</string>
+    <string name="dimension">Dimension: %dx%d</string>
+    <string name="regenerate">Regenerar</string>
+    <string name="validate_bingo">Validar Bingo</string>
+    <string name="bingo_alert">¡BINGO!</string>
+    <string name="congratulations">¡Felicidades %s, has ganado!</string>
+    <string name="ok">Aceptar</string>
+    <string name="free_space">FREE</string>
+</resources>
